@@ -32,12 +32,12 @@ Screenshots
 ---
 ![acilis-ekrani](https://user-images.githubusercontent.com/34637265/54073598-56319e80-429a-11e9-965e-a74e159bc1b4.jpg)  ![drawer-menu](https://user-images.githubusercontent.com/34637265/54073609-7bbea800-429a-11e9-8e80-98e6902375e1.jpg)  ![fish-screen](https://user-images.githubusercontent.com/34637265/54073612-88430080-429a-11e9-9bd7-25aa0eb0eaa2.jpg)
 
-        -Start Screen-          -Drawer Menu-          -Fish Encyclopedia-
+        -Start Screen-         -Drawer Menu-        -Fish Encyclopedia-
 
 ![detail-screen](https://user-images.githubusercontent.com/34637265/54073618-9b55d080-429a-11e9-9586-c87960a59d49.jpg)  ![about-1](https://user-images.githubusercontent.com/34637265/54073706-8168bd80-429b-11e9-9296-d1d17ab0b480.jpg)
 
 
-        -Detail Screen-         -About Screen-
+        -Detail Screen-       -About Screen-
         
 >Screenshots are taken from Android Studio VM on runtime
 

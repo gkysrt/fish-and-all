@@ -38,6 +38,8 @@ Screenshots
 
 
         -Detail Screen-         -About Screen-
+        
+>Screenshots are taken from Android Studio VM on runtime
 
 Requirements
 ---
